@@ -18,7 +18,7 @@
 ## Table of Contents
 
 - [Time Complexity](#Time-complexity)
-- [Mathematics](#mathematics)
+- [Mathematics and Logic](#mathematics-and-Logic)
 - [Bits Manipulation](#Bits-Manipulation)
 - [Recursion](#Recursion)
 - [Arrays](#Arrays)
