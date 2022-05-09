@@ -44,11 +44,11 @@
 :red_square:
 
 
-## Matrix 2d Array
+## DSA-1 Programming Construct
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
-|1|[What is Multidimensional Arrays c++]()|[concepts]()|:green_square: Easy| Matrix, Array |
+|  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag                   
+|-----|----------------|----------|----------|-------------|--------
+|1|[Reverse the number ](https://github.com/lakharashubham007/DSA-Prep/tree/main/ProgrammingConstruct)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/Reversethenumber.cpp)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/Reversenum.js)|:green_square: Easy| Conditions ,loop ,logic |
 
 
 
