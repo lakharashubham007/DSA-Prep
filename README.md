@@ -49,6 +49,7 @@
 |  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag                   
 |-----|----------------|----------|----------|-------------|--------
 |1|[Reverse the number ](https://github.com/lakharashubham007/DSA-Prep/tree/main/ProgrammingConstruct)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/Reversethenumber.cpp)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/Reversenum.js)|:green_square: Easy| Conditions ,loop ,logic |
+|2| [Find given Element in_array](https://github.com/lakharashubham007/DSA-Prep/tree/main/ProgrammingConstruct|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/FindElementinArray.cpp)|[code]()|:green_square: Easy| Conditions ,loop  |
 
 
 
