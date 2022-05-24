@@ -58,3 +58,12 @@
 
 
 
+## DSA-1 Using Collections
+
+|  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag                   
+|-----|----------------|----------|----------|-------------|--------
+|1|[Sorting an array ](https://github.com/lakharashubham007/DSA-Prep/tree/main/Collections)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/Collections/Sorting_array.cpp)|[code]()|:green_square: Easy| c++_STL_sort |
+
+
+
+
