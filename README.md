@@ -43,6 +43,11 @@
 :orange_square:
 :red_square:
 
+#### Table of Contents
+- [Sorting_Foundation](https://github.com/lakharashubham007/DSA-Prep/tree/main/Sorting_Foundation)
+    - [1️⃣ Sorting given array ](https://github.com/lakharashubham007/DSA-Prep/blob/main/Sorting_Foundation/sort.cpp)
+    
+
 
 ## DSA-1 Programming Construct
 
