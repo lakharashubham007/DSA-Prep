@@ -45,7 +45,7 @@
 
 #### Table of Contents
 - [Sorting_Foundation](https://github.com/lakharashubham007/DSA-Prep/tree/main/Sorting_Foundation)
-    - [1️⃣ Sorting given array ](https://github.com/lakharashubham007/DSA-Prep/blob/main/Sorting_Foundation/sort.cpp)
+    - [[1] Sorting given array ](https://github.com/lakharashubham007/DSA-Prep/blob/main/Sorting_Foundation/sort.cpp)
     
 
 
@@ -63,6 +63,6 @@
 |  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag            
 |-----|----------------|----------|----------|-------------|--------
 |1|[Sorting an array ](https://github.com/lakharashubham007/DSA-Prep/tree/main/Collections)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/Collections/Sorting_array.cpp)|[code]()|:green_square: Easy| c++_STL_sort 
-|1|[Find_the_max_element ]()|[code]()|[code]()|:green_square: Easy| c++_STL_sort 
+|1|[Find_the_max_element ]()|[code]()|[code]()|:green_square: Easy| class_objects
 
 
