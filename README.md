@@ -55,6 +55,7 @@
 |-----|----------------|----------|----------|-------------|--------
 |1|[Reverse the number ](https://github.com/lakharashubham007/DSA-Prep/tree/main/ProgrammingConstruct)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/Reversethenumber.cpp)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/Reversenum.js)|:green_square: Easy| Conditions ,loop ,logic |
 |2|[Find given Element in_array](https://github.com/lakharashubham007/DSA-Prep/tree/main/ProgrammingConstruct)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/FindElementinArray.cpp)|[code]()|:green_square: Easy| Conditions ,loop  |
+|7|[Check_if_matrix_is_a_magic_square](https://github.com/lakharashubham007/DSA-Prep/tree/main/ProgrammingConstruct)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/Check_Matrix_magicsquare.cpp)|[code]()|:green_square: Easy| Conditions , logic , Matrixmaths |
 
 
 
