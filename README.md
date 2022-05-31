@@ -47,6 +47,8 @@
 - [Sorting_Foundation](https://github.com/lakharashubham007/DSA-Prep/tree/main/Sorting_Foundation)
     - [[1] Sorting given array ](https://github.com/lakharashubham007/DSA-Prep/blob/main/Sorting_Foundation/sort.cpp)
     
+    
+    
 
 
 ## DSA-1 Programming Construct
@@ -55,7 +57,8 @@
 |-----|----------------|----------|----------|-------------|--------
 |1|[Reverse the number ](https://github.com/lakharashubham007/DSA-Prep/tree/main/ProgrammingConstruct)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/Reversethenumber.cpp)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/Reversenum.js)|:green_square: Easy| Conditions ,loop ,logic |
 |2|[Find given Element in_array](https://github.com/lakharashubham007/DSA-Prep/tree/main/ProgrammingConstruct)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/FindElementinArray.cpp)|[code]()|:green_square: Easy| Conditions ,loop  |
-|7|[Check_if_matrix_is_a_magic_square](https://github.com/lakharashubham007/DSA-Prep/tree/main/ProgrammingConstruct)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/Check_Matrix_magicsquare.cpp)|[code]()|:green_square: Easy| Conditions , logic , Matrixmaths |
+|6|[Diagonal sum in a matrix](https://github.com/lakharashubham007/DSA-Prep/tree/main/ProgrammingConstruct)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/diagonalsum.cpp)|[code]()|:green_square: Easy| Conditions , vector , Matrixmaths-diagonal property |
+|7|[Check if matrix is a magic square](https://github.com/lakharashubham007/DSA-Prep/tree/main/ProgrammingConstruct)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/ProgrammingConstruct/Check_Matrix_magicsquare.cpp)|[code]()|:green_square: Easy| Conditions , logic , Matrixmaths |
 
 
 
