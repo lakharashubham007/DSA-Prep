@@ -70,3 +70,10 @@
 |1|[Find_the_max_element ]()|[code]()|[code]()|:green_square: Easy| class_objects
 
 
+## [DSA-2] Array Implementation
+
+|  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag            
+|-----|----------------|----------|----------|-------------|--------
+|1|[Print Matrix in Spiral Order ](https://github.com/lakharashubham007/DSA-Prep/tree/main/Collections)|[code](https://github.com/lakharashubham007/DSA-Prep/blob/main/Collections/Sorting_array.cpp)|[code]()|:green_square: Easy| c++_STL_sort 
+|2|[s]()|[code]()|[code]()|:green_square: Easy| class_objects
+
